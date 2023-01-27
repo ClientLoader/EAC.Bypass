@@ -1,5 +1,6 @@
-# EasyEACBypass
-EasyAntiCheat bypassing driver (23/01/2022)
+# EAC BYPASS 
+
+Bypass Driver (01/28/2023)
 
 KernelMode driver with some parts not included so no pasta!
 
